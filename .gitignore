@@ -3,3 +3,6 @@
 
 #Test file ignore
 test.html
+
+#npm
+node_modules/**/bin/
